@@ -4,7 +4,7 @@ name: eShopOnWeb Build and Test
 on:
   push:
     branches:
-      - master
+      - main
 
 #Environment variables https://docs.github.com/en/actions/learn-github-actions/environment-variables
 env:
